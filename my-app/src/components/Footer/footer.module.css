@@ -1,0 +1,11 @@
+@import "../../style/variables.css";
+
+.footer {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--footer-text-color);
+  background-color: rgb(var(--footer-background-color));
+  margin-top: auto;
+}

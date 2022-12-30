@@ -1,0 +1,10 @@
+.caption {
+  font-family: BebasNeue;
+  font-size: 20px;
+}
+
+.caption__description {
+  padding-left: 5px;
+  font-family: PTSans;
+  font-size: 18px;
+}

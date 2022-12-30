@@ -1,0 +1,19 @@
+:root {
+  /*overall*/
+  --black-color: #000;
+  --white-color: #fff;
+  --border: 1px solid var(--black-color);
+  --font-weight-bold: 700;
+  --font-weight-normal: 400;
+  /*header*/
+  --header-background-color: var(--bs-dark-rgb);
+  /*main*/
+  --main-character-status-alive-background-color: rgb(99, 153, 19);
+  --main-character-status-dead-background-color: rgb(153, 19, 19);
+  --main-character-status-unknown-background-color: rgb(77, 71, 71);
+  --main-character-status-text-color: var(--white-color);
+  --main-search-border: var(2px solid #5f5f65);
+  /*footer*/
+  --footer-background-color: var(--bs-dark-rgb);
+  --footer-text-color: var(--white-color);
+}

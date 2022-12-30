@@ -1,0 +1,25 @@
+@import "../../style/variables.css";
+
+.statusAlive,
+.statusDead,
+.statusUnknown {
+  border-radius: 0.25rem;
+  color: var(--main-character-status-text-color);
+  font-size: 18px;
+  font-weight: var(--font-weight-bold);
+
+  text-align: center;
+  padding: 5px 10px;
+}
+
+.statusAlive {
+  background-color: var(--main-character-status-alive-background-color);
+}
+
+.statusDead {
+  background-color: var(--main-character-status-dead-background-color);
+}
+
+.statusUnknown {
+  background-color: var(--main-character-status-unknown-background-color);
+}

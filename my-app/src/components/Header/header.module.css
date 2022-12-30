@@ -1,0 +1,13 @@
+.header {
+  min-height: 80px;
+  font-family: BebasNeue, sans-serif;
+  font-weight: var(--font-weight-normal);
+}
+
+.header__lable {
+  font-size: 40px;
+}
+
+.header__nav {
+  font-size: 25px;
+}
